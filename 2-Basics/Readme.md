@@ -1,0 +1,21 @@
+# Module 2 - Basics
+- [Types](2.1.md)
+  - Basic types
+  - Aliases
+- [Variables](2.2.md)
+  - Declaration and Assignment
+  - Zero values
+  - iota
+- [Functions](2.3.md)
+  - Arguments
+  - Multi-valued returns
+  - Anonymous functions
+  - Closures
+- [Control Flow](2.4.md)
+  - if/else
+  - for/break/continue
+  - short statements
+  - defer
+  - panic/recover
+---
+[prev](../1-Mechanics/Readme.md) -- [up](../Readme.md) -- [next](../3-Data/Readme.md)
