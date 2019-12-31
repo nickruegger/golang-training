@@ -1,8 +1,8 @@
 # Go Training
 
-## Verification
+## How to use this Training
 
-Each module will have a `test/` folder. To verify your knowledge, please clone and ensure that each `test/` passes CI.
+Each module will have a `test/` folder. To verify your knowledge, please fork this repo and ensure that each `test/` passes CI.
 
 ## Organization
 

@@ -1,5 +1,5 @@
 # Module 3 - Data Structures
-- [Pointers](1-Mechanics/1.3.1.md)
+- [Pointers](3-Data/3.1.md)
   - Dereferencing
 - [Structs](3-Data/3.2.md)
   - Definition
