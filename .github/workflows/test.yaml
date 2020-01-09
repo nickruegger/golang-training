@@ -30,7 +30,7 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v1
     - name: Two
-      run: go test 1-Basics/*/*
+      run: go test 2-Basics/*/*
   three:
     strategy:
       matrix:
